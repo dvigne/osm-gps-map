@@ -28,7 +28,7 @@
 #include "osm-gps-map-widget.h"
 
 #define TILESIZE 256
-#define MAX_ZOOM 20
+#define MAX_ZOOM 50
 #define MIN_ZOOM 0
 
 #define MAX_TILE_ZOOM_OFFSET 10
